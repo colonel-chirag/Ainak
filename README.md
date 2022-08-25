@@ -6,4 +6,6 @@ Contributors : [Dr. Mayank Aggarwal](https://scholar.google.co.in/citations?user
 
 Project Consequences :  App | Research Paper |
 
+Project Deadline : November 2022
+
 Research Paper References : (https://www.researchgate.net/publication/315830657_Be_My_Eyes_Android_App_for_visually_impaired_people)
