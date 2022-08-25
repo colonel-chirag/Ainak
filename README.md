@@ -1,8 +1,10 @@
 # Ainak_App_for_visually_impaired_people
 
-Preffered Tech Stack : Flutter | C++ | FlutterFlow |
+*Project status : ongoing *
 
-Contributors : [Dr. Mayank Aggarwal](https://scholar.google.co.in/citations?user=BZMlWLwAAAAJ&hl=en) | [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal](https://github.com/theankitbansal) |
+**Preffered Tech Stack** : Flutter | C++ | FlutterFlow |
+
+**Contributors** : [Dr. Mayank Aggarwal](https://scholar.google.co.in/citations?user=BZMlWLwAAAAJ&hl=en) | [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal](https://github.com/theankitbansal) |
 
 Project Consequences :  App | Research Paper |
 
