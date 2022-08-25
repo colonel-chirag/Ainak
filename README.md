@@ -2,7 +2,7 @@
 
 Preffered Tech Stack : Flutter | C++ | FlutterFlow |
 
-Contributors : [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal](https://github.com/theankitbansal) |
+Contributors : [Dr. Mayank Aggarwal] (https://scholar.google.co.in/citations?user=BZMlWLwAAAAJ&hl=en) | [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal](https://github.com/theankitbansal) |
 
 Project Consequences :  App | Research Paper |
 
