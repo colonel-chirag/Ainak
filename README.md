@@ -1,6 +1,6 @@
 # Ainak_App_for_visually_impaired_people
 
-*Project status : ongoing *
+*Project status : ongoing 
 
 **Preffered Tech Stack** : Flutter | C++ | FlutterFlow |
 
