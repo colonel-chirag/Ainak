@@ -2,4 +2,8 @@
 
 Preffered Tech Stack : Flutter | C++ | FlutterFlow |
 
-Contributors : [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal] |
+Contributors : [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal](https://github.com/theankitbansal) |
+
+Project Consequences :  App | Research Paper |
+
+Research Paper References : (https://www.researchgate.net/publication/315830657_Be_My_Eyes_Android_App_for_visually_impaired_people)
