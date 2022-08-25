@@ -2,4 +2,4 @@
 
 Preffered Tech Stack : Flutter | C++ | FlutterFlow |
 
-Contributors : [Chirag Patel](https://github.com/colonel-chirag)
+Contributors : [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal] |
