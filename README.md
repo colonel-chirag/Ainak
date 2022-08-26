@@ -23,8 +23,6 @@ Back - End [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](h
 
 Testing / Deployment [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) 
 
-Documentation [Chirag Patel](https://github.com/colonel-chirag) | [Ashish Bibyan](https://github.com/ABS-007) 
-
 Privacy Policy [Ankit Bansal](https://github.com/theankitbansal) 
 
-
+Project Report / Presentation [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal](https://github.com/theankitbansal) |
