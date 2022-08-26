@@ -21,8 +21,10 @@ Front - End [Chirag Patel](https://github.com/colonel-chirag) | [Ashish Bibyan](
 
 Back - End [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) 
 
-Testing [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) 
+Testing / Deployment [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) 
 
 Documentation [Chirag Patel](https://github.com/colonel-chirag) | [Ashish Bibyan](https://github.com/ABS-007) 
 
 Privacy Policy [Ankit Bansal](https://github.com/theankitbansal) 
+
+
