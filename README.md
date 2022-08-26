@@ -15,6 +15,8 @@ Research Paper References : (https://www.researchgate.net/publication/315830657_
 
 *Project Chronology* -: 
 
+Project Mentor  [Dr. Mayank Aggarwal](https://scholar.google.co.in/citations?user=BZMlWLwAAAAJ&hl=en) 
+
 Project Manager [Chirag Patel](https://github.com/colonel-chirag) 
 
 Front - End [Chirag Patel](https://github.com/colonel-chirag) | [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal](https://github.com/theankitbansal) 
