@@ -11,3 +11,16 @@ Project Consequences :  App | Research Paper |
 Project Deadline : November 2022
 
 Research Paper References : (https://www.researchgate.net/publication/315830657_Be_My_Eyes_Android_App_for_visually_impaired_people)
+
+
+*Project Chronology* -: 
+
+Project Manager [Chirag Patel](https://github.com/colonel-chirag) 
+
+Front - End [Chirag Patel](https://github.com/colonel-chirag) | [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal](https://github.com/theankitbansal) 
+
+Back - End [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) 
+
+Testing [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) 
+
+Documentation [Chirag Patel](https://github.com/colonel-chirag) | [Ashish Bibyan](https://github.com/ABS-007) 
