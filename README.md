@@ -4,7 +4,7 @@
 
 **Preffered Tech Stack** : Flutter | C++ | FlutterFlow |
 
-**Contributors** : [Dr. Mayank Aggarwal](https://scholar.google.co.in/citations?user=BZMlWLwAAAAJ&hl=en) | [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal](https://github.com/theankitbansal) |
+**Contributors** : [Dr. Mayank Aggarwal](https://scholar.google.co.in/citations?user=BZMlWLwAAAAJ&hl=en) | [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) 
 
 Project Consequences :  App | Research Paper |
 
@@ -16,12 +16,12 @@ Project Mentor  [Dr. Mayank Aggarwal](https://scholar.google.co.in/citations?use
 
 Project Manager [Chirag Patel](https://github.com/colonel-chirag) 
 
-Front - End [Chirag Patel](https://github.com/colonel-chirag) | [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal](https://github.com/theankitbansal) 
+Front - End [Chirag Patel](https://github.com/colonel-chirag) | [Ashish Bibyan](https://github.com/ABS-007)  
 
 Back - End [Chirag Patel](https://github.com/colonel-chirag) | [Divyank Singh](https://github.com/divyanksingh-git) 
 
 Testing / Deployment [Divyank Singh](https://github.com/divyanksingh-git) | [Ashish Bibyan](https://github.com/ABS-007) 
 
-Privacy Policy [Ankit Bansal](https://github.com/theankitbansal) 
+Privacy Policy 
 
 Project Report / Presentation [Ashish Bibyan](https://github.com/ABS-007) | [Ankit Bansal](https://github.com/theankitbansal) |
