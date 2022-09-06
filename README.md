@@ -1,5 +1,7 @@
 # Ainak_App_for_visually_impaired_people
 
+synopsis -: https://docs.google.com/document/d/1DXiKVDBm7VjC7q4qkodBEiGkZncfOsQHMDq1ylFigAk/edit?usp=sharing
+
 *Project status : ongoing 
 
 **Preffered Tech Stack** : Flutter | C++ | FlutterFlow |
